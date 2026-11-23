@@ -118,18 +118,6 @@ Real Svelvik data (no labels):
 
 An earlier script (`run_pipeline_master.py`) printed a hard-coded metrics table and used a fixed 6.0–7.0 s analysis window. In the real records, that window contains a hammer strike in only 2 of 16 files. The script is kept for reference only. All results in the manuscript come from the scripts listed above.
 
-## Citation
-
-```bibtex
-@article{Beg2026TLGRMCAE,
-  author  = {Beg, Fiza and Aziz, Izzatdin Abdul and Karim, Siti Nurlaili and Usmani, Usman Ahmad},
-  title   = {Time-Lapse-Referenced Graph-Regularized Monte Carlo Dropout Autoencoder for Unsupervised Anomaly Detection in Distributed Acoustic Sensing Data for {CO$_2$} Storage Monitoring},
-  journal = {Computers, Materials \& Continua},
-  year    = {2026},
-  note    = {Submitted}
-}
-```
-
 ## Acknowledgements
 
 Field data: DASGAS project, ECCSEL Svelvik CO₂ Field Lab, acquired under the EU Geo-INQUIRE project (Grant Agreement No. 101058518). This work was supported by the Graduate Research Assistantship Scheme at Universiti Teknologi PETRONAS and the TotalEnergies EP Malaysia Research Grant.
