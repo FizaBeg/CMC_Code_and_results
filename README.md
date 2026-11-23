@@ -114,6 +114,9 @@ Real Svelvik data (no labels):
 | Original configuration | 12.1% | 0.80 / 0.77 |
 | **TL-GR-MCAE** | **4.7%** | **0.89 / 0.85** |
 
+## Note on the earlier version
+An earlier version of this pipeline (repository FizaBeg/pipeline_DASGAS) used a fixed 6.0–7.0 s analysis window, which contains a hammer strike in only 2 of the 16 field records. All results in the manuscript come from the code in this repository.
+
 ## Acknowledgements
 
 Field data: DASGAS project, ECCSEL Svelvik CO₂ Field Lab, acquired under the EU Geo-INQUIRE project (Grant Agreement No. 101058518). This work was supported by the Graduate Research Assistantship Scheme at Universiti Teknologi PETRONAS and the TotalEnergies EP Malaysia Research Grant.
